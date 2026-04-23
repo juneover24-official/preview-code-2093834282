@@ -1,26 +1,8 @@
 {
   "qq_number": "2093834282",
   "group_number": "1083878220",
-  "updated_at": "2026-04-22T16:19:35.906304",
+  "updated_at": "2026-04-23T15:52:38.875207",
   "skins": [
-    {
-      "name": "アイドルになる夢のために",
-      "file": "莓融合底.bds",
-      "thumb": "莓融合底.bds_py_26_light_thumb.png",
-      "full": "莓融合底.bds_py_26_light.png"
-    },
-    {
-      "name": "アイドルになる夢のために",
-      "file": "莓彩底.bds",
-      "thumb": "莓彩底.bds_py_26_light_thumb.png",
-      "full": "莓彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "蓝色吉他曲.bds",
-      "thumb": "蓝色吉他曲.bds_py_26_light_thumb.png",
-      "full": "蓝色吉他曲.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "蓝色吉他曲.bdi",
@@ -38,6 +20,24 @@
       "file": "莓彩底.bdi",
       "thumb": "莓彩底.bdi_py_26_light_thumb.png",
       "full": "莓彩底.bdi_py_26_light.png"
+    },
+    {
+      "name": "アイドルになる夢のために",
+      "file": "莓融合底.bds",
+      "thumb": "莓融合底.bds_py_26_light_thumb.png",
+      "full": "莓融合底.bds_py_26_light.png"
+    },
+    {
+      "name": "アイドルになる夢のために",
+      "file": "莓彩底.bds",
+      "thumb": "莓彩底.bds_py_26_light_thumb.png",
+      "full": "莓彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "蓝色吉他曲.bds",
+      "thumb": "蓝色吉他曲.bds_py_26_light_thumb.png",
+      "full": "蓝色吉他曲.bds_py_26_light.png"
     }
   ]
 }
