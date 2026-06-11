@@ -1,13 +1,19 @@
 {
   "qq_number": "2093834282",
   "group_number": "1048765503",
-  "updated_at": "2026-04-23T15:52:38.880104",
+  "updated_at": "2026-06-11T05:50:08+00:00",
   "skins": [
     {
       "name": "绾の纱杏酪雾",
       "file": "绾の纱杏酪雾.bds",
       "thumb": "绾の纱杏酪雾.bds_py_26_light_thumb.png",
       "full": "绾の纱杏酪雾.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Killua.bds",
+      "thumb": "Killua.bds_py_26_light_thumb.png",
+      "full": "Killua.bds_py_26_light_thumb.png"
     }
   ]
 }
