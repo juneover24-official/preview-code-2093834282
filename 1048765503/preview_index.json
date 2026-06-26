@@ -1,7 +1,7 @@
 {
   "qq_number": "2093834282",
   "group_number": "1048765503",
-  "updated_at": "2026-06-26T10:45:57+00:00",
+  "updated_at": "2026-06-26T11:05:02+00:00",
   "skins": [
     {
       "name": "绾の纱杏酪雾",
@@ -20,12 +20,6 @@
       "file": "札瑞.bds",
       "thumb": "札瑞.bds_py_26_light_thumb.png",
       "full": "札瑞.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "名字不建议加多余的符号",
-      "file": "grotesque.bds",
-      "thumb": "grotesque.bds_py_26_light_thumb.png",
-      "full": "grotesque.bds_py_26_light_thumb.png"
     }
   ]
 }
